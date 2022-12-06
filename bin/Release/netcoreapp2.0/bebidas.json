@@ -1,0 +1,86 @@
+[
+  {
+    "Codigo": "001",
+    "Categoria": "Cafés",
+    "Nome": "Espresso Tradicional",
+    "Descricao": "Café puro e feito sob pressão, sem adição de leite ou qualquer outro ingrediente.",
+    "Preco": 9.90
+  },
+  {
+    "Codigo": "002",
+    "Categoria": "Cafés",
+    "Nome": "Espresso com Chantilly",
+    "Descricao": "Café puro e feito sob pressão com uma cobertura de chantilly.",
+    "Preco": 9.90
+  },
+  {
+    "Codigo": "003",
+    "Categoria": "Cafés",
+    "Nome": "Latte",
+    "Descricao": "Café espresso com leite vaporizado.",
+    "Preco": 9.90
+  },
+  {
+    "Codigo": "004",
+    "Categoria": "Cafés",
+    "Nome": "Cappuccino",
+    "Descricao": "Café espresso com leite vaporizado, resultando em um creme bem consistente.",
+    "Preco": 12.90
+  },
+  {
+    "Codigo": "005",
+    "Categoria": "Cafés",
+    "Nome": "Macchiato",
+    "Descricao": "Leite vaporizado, baunilha e café expresso.",
+    "Preco": 12.90
+  },
+  {
+    "Codigo": "006",
+    "Categoria": "Cafés",
+    "Nome": "Mocaccino",
+    "Descricao": "Café espresso, leite vaporizado, espuma de leite e calda de chocolate.",
+    "Preco": 12.90
+  },
+  {
+    "Codigo": "007",
+    "Categoria": "Chás",
+    "Nome": "Chá preto com pêssego (com ou sem gás)",
+    "Descricao": "",
+    "Preco": 7.90
+  },
+  {
+    "Codigo": "008",
+    "Categoria": "Chás",
+    "Nome": "Chá preto com frutas vermelhas",
+    "Descricao": "",
+    "Preco": 7.90
+  },
+  {
+    "Codigo": "009",
+    "Categoria": "Chás",
+    "Nome": "Chá verde com gengibre e limão",
+    "Descricao": "",
+    "Preco": 7.90
+  },
+  {
+    "Codigo": "010",
+    "Categoria": "Alcóolicos",
+    "Nome": "Café com Absolut",
+    "Descricao": "Um café mais cítrico e suave, limão e Absolut.",
+    "Preco": 39.90
+  },
+  {
+    "Codigo": "011",
+    "Categoria": "Alcóolicos",
+    "Nome": "Espresso Gin Tônica",
+    "Descricao": "Café gelado, gin tônica, cranberry e gelo.",
+    "Preco": 39.90
+  }, 
+  {
+    "Codigo": "012",
+    "Categoria": "Alcóolicos",
+    "Nome": "Irish Coffee",
+    "Descricao": "Café com uísque irlandês e uma camada de creme de chantilly.",
+    "Preco": 39.90
+  }
+]

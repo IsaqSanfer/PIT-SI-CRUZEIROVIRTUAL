@@ -1,0 +1,13 @@
+C:\Users\isael\source\repos\IsaqSanfer\PIT-SI-CRUZEIROVIRTUAL
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=WebAppUncafezin
+--content-root=C:\Users\isael\source\repos\IsaqSanfer\PIT-SI-CRUZEIROVIRTUAL
+--file=C:\Users\isael\source\repos\IsaqSanfer\PIT-SI-CRUZEIROVIRTUAL\Views\Pedido\Cadastro.cshtml
+--file=C:\Users\isael\source\repos\IsaqSanfer\PIT-SI-CRUZEIROVIRTUAL\Views\Pedido\Carrinho.cshtml
+--file=C:\Users\isael\source\repos\IsaqSanfer\PIT-SI-CRUZEIROVIRTUAL\Views\Pedido\Carrossel.cshtml
+--file=C:\Users\isael\source\repos\IsaqSanfer\PIT-SI-CRUZEIROVIRTUAL\Views\Pedido\Resumo.cshtml
+--file=C:\Users\isael\source\repos\IsaqSanfer\PIT-SI-CRUZEIROVIRTUAL\Views\Shared\Error.cshtml
+--file=C:\Users\isael\source\repos\IsaqSanfer\PIT-SI-CRUZEIROVIRTUAL\Views\Shared\_Layout.cshtml
+--file=C:\Users\isael\source\repos\IsaqSanfer\PIT-SI-CRUZEIROVIRTUAL\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Users\isael\source\repos\IsaqSanfer\PIT-SI-CRUZEIROVIRTUAL\Views\_ViewImports.cshtml
+--file=C:\Users\isael\source\repos\IsaqSanfer\PIT-SI-CRUZEIROVIRTUAL\Views\_ViewStart.cshtml

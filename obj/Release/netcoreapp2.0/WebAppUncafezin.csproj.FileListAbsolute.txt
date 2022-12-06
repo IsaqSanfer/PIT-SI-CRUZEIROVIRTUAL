@@ -1,0 +1,17 @@
+C:\Users\isael\source\repos\IsaqSanfer\PIT-SI-CRUZEIROVIRTUAL\bin\Release\netcoreapp2.0\appsettings.Development.json
+C:\Users\isael\source\repos\IsaqSanfer\PIT-SI-CRUZEIROVIRTUAL\bin\Release\netcoreapp2.0\appsettings.json
+C:\Users\isael\source\repos\IsaqSanfer\PIT-SI-CRUZEIROVIRTUAL\bin\Release\netcoreapp2.0\bebidas.json
+C:\Users\isael\source\repos\IsaqSanfer\PIT-SI-CRUZEIROVIRTUAL\bin\Release\netcoreapp2.0\bundleconfig.json
+C:\Users\isael\source\repos\IsaqSanfer\PIT-SI-CRUZEIROVIRTUAL\bin\Release\netcoreapp2.0\WebAppUncafezin.deps.json
+C:\Users\isael\source\repos\IsaqSanfer\PIT-SI-CRUZEIROVIRTUAL\bin\Release\netcoreapp2.0\WebAppUncafezin.runtimeconfig.json
+C:\Users\isael\source\repos\IsaqSanfer\PIT-SI-CRUZEIROVIRTUAL\bin\Release\netcoreapp2.0\WebAppUncafezin.runtimeconfig.dev.json
+C:\Users\isael\source\repos\IsaqSanfer\PIT-SI-CRUZEIROVIRTUAL\bin\Release\netcoreapp2.0\WebAppUncafezin.dll
+C:\Users\isael\source\repos\IsaqSanfer\PIT-SI-CRUZEIROVIRTUAL\bin\Release\netcoreapp2.0\WebAppUncafezin.pdb
+C:\Users\isael\source\repos\IsaqSanfer\PIT-SI-CRUZEIROVIRTUAL\obj\Release\netcoreapp2.0\WebAppUncafezin.csproj.AssemblyReference.cache
+C:\Users\isael\source\repos\IsaqSanfer\PIT-SI-CRUZEIROVIRTUAL\obj\Release\netcoreapp2.0\WebAppUncafezin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isael\source\repos\IsaqSanfer\PIT-SI-CRUZEIROVIRTUAL\obj\Release\netcoreapp2.0\WebAppUncafezin.AssemblyInfoInputs.cache
+C:\Users\isael\source\repos\IsaqSanfer\PIT-SI-CRUZEIROVIRTUAL\obj\Release\netcoreapp2.0\WebAppUncafezin.AssemblyInfo.cs
+C:\Users\isael\source\repos\IsaqSanfer\PIT-SI-CRUZEIROVIRTUAL\obj\Release\netcoreapp2.0\WebAppUncafezin.csproj.CoreCompileInputs.cache
+C:\Users\isael\source\repos\IsaqSanfer\PIT-SI-CRUZEIROVIRTUAL\obj\Release\netcoreapp2.0\WebAppUncafezin.dll
+C:\Users\isael\source\repos\IsaqSanfer\PIT-SI-CRUZEIROVIRTUAL\obj\Release\netcoreapp2.0\WebAppUncafezin.pdb
+C:\Users\isael\source\repos\IsaqSanfer\PIT-SI-CRUZEIROVIRTUAL\obj\Release\netcoreapp2.0\WebAppUncafezin.genruntimeconfig.cache
